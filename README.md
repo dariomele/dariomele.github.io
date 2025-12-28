@@ -1,7 +1,7 @@
-# Dario Mele – PhD Student
+# Dario Mele – PhD Student in Physics
 
 Welcome to my GitHub Pages! 🌌  
-I’m a PhD student exploring quantum computation, quantum machine learning, and coding qubits.  
+I’m a PhD student at University of Genoa, exploring quantum computation, quantum machine learning, and coding qubits.  
 
 ## About Me
 I love experimenting with quantum algorithms and building software that makes qubits dance 🚀.  
