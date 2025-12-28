@@ -8,8 +8,9 @@ I love experimenting with quantum algorithms and building software that makes qu
 Currently, I’m working on projects that involve:
 
 - Quantum Gradient Calculators  
-- Parameterized Quantum Circuits  
-- Quantum Machine Learning models  
+- Parameterized Quantum Circuits
+- Variational Quantum Algorithms
+- Quantum Kernel Learning models 
 
 ## Projects
 - **Quantum Gradient Calculator** – [link]  
